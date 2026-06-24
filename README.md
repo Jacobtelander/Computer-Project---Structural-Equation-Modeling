@@ -38,20 +38,28 @@ The dataset consist of NBA player-game statistics from the 2024–25 season. It 
 - **GmSc**: Game Score, a metric summarizing player performance for the game.
 - **Date**: Date of the game in YYYY-MM-DD format.
 
-## Features
+## Methods
 
-- **Total Streams**: Shows total streams.
-- **Top Tracks**: Displays the most streamed tracks.
-- **Artist Analysis**: Compares artists.
-- **Streaming Trends**: Shows trends over time.
+Data Cleaning → removed missing values using FIML and then aggregated to player-level.
+
+CFA & SEM → Models created with initial theorised latent construct, then adjusted for improved fit. Offensce theorized to affect defence
+
+Model fit → Model diagnostics using CFI, TLI, RMSEA, SRMR and Chi-square.
+
+## Results
+1. NBA player performance is not adequately represented by a simple distinction between offensive and defensive ability.
+2. Offensive involvement and interior presence serves as much better latent constructs than the intially proposed latent variables (Offensive and defensive ability).
+3. The latent structure is similar between groups.
+4. 
+
 
 ## Tools Used
-
-- Power BI
-- Python
+- Rstudio
 - Excel
+- Overleaf
 
 ## Authors
 
 - Jacob Telander
-- Måns Andersson
+- Måns Conradson
+- Teerth Gupta
