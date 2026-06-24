@@ -5,7 +5,7 @@ The objective of this project is to analyze the latent structure in baketball ab
 - Can basketball statistics be explained by offensive and defensive ability of a player?
 - Can an offensive latent construct be used as predictor for a defensive latent construct
 among NBA players?
--Is there a statistically significant difference in latent measurement structure between
+- Is there a statistically significant difference in latent measurement structure between
 rookies and veteran players?
 
 ## Dataset
