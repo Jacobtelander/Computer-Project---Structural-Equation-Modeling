@@ -1,6 +1,12 @@
 # Computer-Project---Structural-Equation-Modeling
 Project for SEM course spring 26´. 
-The objective of this project is to analyze the latent structure in baketball ability of NBA players. This is done by utilizing CFA and structural equation modeling in Rstudio. 
+The objective of this project is to analyze the latent structure in baketball ability of NBA players. This is done by utilizing CFA and structural equation modeling in Rstudio. The aim is to answer the following questions: 
+
+- Can basketball statistics be explained by offensive and defensive ability of a player?
+- Can an offensive latent construct be used as predictor for a defensive latent construct
+among NBA players?
+-Is there a statistically significant difference in latent measurement structure between
+rookies and veteran players?
 
 ## Dataset
 
