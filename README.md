@@ -47,13 +47,20 @@ CFA & SEM → Models created with initial theorised latent construct, then adjus
 Model fit → Model diagnostics using CFI, TLI, RMSEA, SRMR and Chi-square.
 
 ## Results
-1. NBA player performance is not adequately represented by a simple distinction between offensive and defensive ability.
-2. Offensive involvement and interior presence serves as much better latent constructs than the intially proposed latent variables (Offensive and defensive ability).
-3. The latent structure is similar between groups.
-4. 
 
+1. NBA player performance is not adequately represented by a simple distinction between offensive and defensive ability.
+2. Offensive involvement and interior presence serves as much better latent constructs than the intially proposed latent variables.
+3. The latent structure is similar between groups.
+4. Offensive involvement is found to be a significant positive predictor of interior presence, indicating that players with greater offensive responsibility also tend to contribute more strongly to interior aspects of play.
+
+## Visualizations
+
+1. CFA plot
+2. SEM plot
+3. Correlation matrix
 
 ## Tools Used
+
 - Rstudio
 - Excel
 - Overleaf
