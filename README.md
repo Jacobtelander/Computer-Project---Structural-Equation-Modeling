@@ -42,7 +42,7 @@ The dataset consist of NBA player-game statistics from the 2024–25 season. It 
 
 Data Cleaning → removed missing values using FIML and then aggregated to player-level.
 
-CFA & SEM → Models created with initial theorised latent construct, then adjusted for improved fit. Offensce theorized to affect defence
+CFA & SEM → Models created with initial theorised latent construct, then adjusted for improved fit. Offense theorized to affect defence
 
 Model fit → Model diagnostics using CFI, TLI, RMSEA, SRMR and Chi-square.
 
